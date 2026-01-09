@@ -132,7 +132,7 @@ export const Hero = () => {
                 <span className="text-sm text-muted-foreground">Follow me:</span>
                 {[
                     { icon: Github, href: "https://github.com/mandeepmotan-ai/", label: "Github" },
-                    { icon: Linkedin, href: "https://www.linkedin.com/in/mandeepmotan-ai", label: "Linkedin"},
+                    { icon: Linkedin, href: "https://www.linkedin.com/in/mandeepmotan", label: "Linkedin"},
                     { icon: BarChart2, href: "https://www.kaggle.com/mandeepmotan", label: "Kaggle"},
 
                     { 
