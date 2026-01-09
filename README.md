@@ -13,7 +13,14 @@
 ### 🧬 The Core Objective
 This repository is the production-grade deployment of my professional interface. It serves as a centralized hub for my work in **Deep Learning**, **Object Detection**, and **Edge Computing**. 
 
-[**View Live Deployment →**](https://mandeep-ai.vercel.app)
+<div align="center">
+  <br />
+  <a href="https://mandeep-ai.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/ENTER_THE_LAB-000000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=646CFF" alt="Live Demo" />
+  </a>
+  <br />
+  <sub>(Opens in a new tab)</sub>
+</div>
 
 ### 🛠️ Technical Stack (The Lab Gear)
 * **Frontend:** React 18 with high-performance hooks.
