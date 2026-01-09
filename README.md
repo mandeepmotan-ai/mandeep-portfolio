@@ -19,7 +19,6 @@ This repository is the production-grade deployment of my professional interface.
     <img src="https://img.shields.io/badge/ENTER_THE_LAB-000000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=646CFF" alt="Live Demo" />
   </a>
   <br />
-  <sub>(Opens in a new tab)</sub>
 </div>
 
 ### 🛠️ Technical Stack (The Lab Gear)
